@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/1CreeperTV/1creepertv.github.io/refs/heads/main/Images/lv_0_2025112922-1764451316159.gif" width="150" style="border-radius: 50%;" alt="Profile Icon">
+  <img src="https://raw.githubusercontent.com/CreeperTVii/creepertvii.github.io/refs/heads/main/Images/lv_0_2025112922-1764451316159.gif" width="150" style="border-radius: 50%;" alt="Profile Icon">
 </p>
 
-<h2 align="center">👋🏻 Salut, je suis <strong>1CreeperTV</strong> (Loann) !</h2>
+<h2 align="center">👋🏻 Salut, je suis <strong>CreeperTVii</strong> (Loann) !</h2>
 
 <p align="center"><i>Créateur de contenu français, passionné par Nintendo, le homebrew et le modding sur Wii, Wii U et 3DS.</i></p>
 
@@ -10,7 +10,7 @@
 
 ## 🌐 Site Web
 Je possède également un site internet qui présente quelques infos sur moi et centralise tous mes réseaux.  
-👉 [Cliquez ici pour y accéder](https://1creepertv.github.io)
+👉 [Cliquez ici pour y accéder](https://creepertvii.github.io)
 
 ---
 
