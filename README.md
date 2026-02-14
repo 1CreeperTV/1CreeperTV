@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/CreeperTVii/creepertvii.github.io/refs/heads/main/Images/lv_0_2025112922-1764451316159.gif" width="150" style="border-radius: 50%;" alt="Profile Icon">
 </p>
 
-<h2 align="center">👋🏻 Salut, je suis <strong>CreeperTV</strong> (Loann) !</h2>
+<h2 align="center">👋🏻 Salut, je suis <strong>Loannnnnn</strong> !</h2>
 
 <p align="center"><i>Créateur de contenu français, passionné par Nintendo, le homebrew et le modding sur Wii, Wii U et 3DS.</i></p>
 
