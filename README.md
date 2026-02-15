@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/CreeperTVii/creepertvii.github.io/refs/heads/main/Images/lv_0_2025112922-1764451316159.gif" width="150" style="border-radius: 50%;" alt="Profile Icon">
+  <img src="https://raw.githubusercontent.com/loannnnnn2659/loannnnnn2659.github.io/refs/heads/main/Images/lv_0_2025112922-1764451316159.gif" width="150" style="border-radius: 50%;" alt="Profile Icon">
 </p>
 
 <h2 align="center">👋🏻 Salut, je suis <strong>Loannnnnn</strong> !</h2>
@@ -10,7 +10,7 @@
 
 ## 🌐 Site Web
 Je possède également un site internet qui présente quelques infos sur moi et centralise tous mes réseaux.  
-👉 [Cliquez ici pour y accéder](https://creepertvii.github.io)
+👉 [Cliquez ici pour y accéder](https://loannnnnn2659.github.io)
 
 ---
 
