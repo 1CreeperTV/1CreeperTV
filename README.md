@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/loannnnnn2659/loannnnnn2659.github.io/refs/heads/main/Images/lv_0_2025112922-1764451316159.gif" width="150" style="border-radius: 50%;" alt="Profile Icon">
+  <img src="https://avatars.githubusercontent.com/u/151388753?s=400&u=a7d77c26a1c7f35788427a95977047d3ff85ba7b&v=4" width="150" style="border-radius: 50%;" alt="Profile Icon">
 </p>
 
 <h2 align="center">👋🏻 Salut, je suis <strong>Loannnnnn</strong> (1CreeperTV) !</h2>
