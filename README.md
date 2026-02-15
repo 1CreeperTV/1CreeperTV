@@ -4,7 +4,7 @@
 
 <h2 align="center">👋🏻 Salut, je suis <strong>Loannnnnn</strong> !</h2>
 
-<p align="center"><i>Créateur de contenu français, passionné par Nintendo, le homebrew et le modding sur Wii, Wii U et 3DS.</i></p>
+<p align="center"><i>Passionné par Nintendo, le homebrew et le modding sur Wii, Wii U et 3DS.</i></p>
 
 ---
 
