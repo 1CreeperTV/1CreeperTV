@@ -2,21 +2,20 @@
   <img src="https://avatars.githubusercontent.com/u/151388753?s=400&u=a7d77c26a1c7f35788427a95977047d3ff85ba7b&v=4" width="150" style="border-radius: 50%;" alt="Profile Icon">
 </p>
 
-<h2 align="center">👋🏻 Salut, je suis <strong>Loannnnnn</strong> (1CreeperTV) !</h2>
+<h2 align="center">👋🏻 Salut, je suis <strong>LoannMKW</strong> !</h2>
 
-<p align="center"><i>Passionné par Nintendo, le homebrew et le modding sur Wii, Wii U et 3DS.</i></p>
+<p align="center"><i>Passionné par Nintendo, le homebrew et le modding sur Wii, Wii U et 3DS. J'adore jouer à Mario Kart Wii !</i></p>
 
 ---
 
-## 🌐 Site Web
-Je possède également un site internet qui présente quelques infos sur moi et centralise tous mes réseaux.  
-👉 [Cliquez ici pour y accéder](https://1creepertv.github.io)
+## 🎥 YouTube
+Je possède également une chaîne YouTube comptant 4k abonnés, ou je fait principalement des tutos & des streams ou je joue avec la commu :D  
+👉 [Cliquez ici pour y accéder](https://www.youtube.com/@LoannMKW)
 
 ---
 
 ## 🎮 Serveur Discord
-Voici mon serveur personnel : venez discuter, être aidé et chiller ensemble !  
-Le serveur est principalement centré sur les consoles Nintendo (Wii, Wii U, 3DS), l’homebrew et la communauté de CreeperTV.
+Voici mon serveur personnel : venez discuter, jouer, être aidé et chiller ensemble !  
 
 <p align="center">
   <a href="https://discord.gg/uwzAqsbKMg" target="_blank">
@@ -25,5 +24,5 @@ Le serveur est principalement centré sur les consoles Nintendo (Wii, Wii U, 3DS
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=1CreeperTV&label=Vues%20du%20profil&color=blue&style=for-the-badge" alt="Compteur de vues" />
+  <img src="https://komarev.com/ghpvc/?username=LoannMKW&label=Vues%20du%20profil&color=blue&style=for-the-badge" alt="Compteur de vues" />
 </p>
