@@ -4,7 +4,7 @@
 
 <h2 align="center">👋🏻 Salut, je suis <strong>LoannMKW</strong> !</h2>
 
-<p align="center"><i>Passionné par Nintendo, le homebrew et le modding sur Wii, Wii U et 3DS. J'adore jouer à Mario Kart Wii !</i></p>
+<p align="center"><i>J'adore Nintendo, le homebrew et le modding sur Wii, Wii U et 3DS. Je joue principalement à Mario Kart Wii !</i></p>
 
 ---
 
